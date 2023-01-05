@@ -1,0 +1,9 @@
+#container{
+    width: 400px;
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+input{
+    width: 100%;
+}
